@@ -31,7 +31,7 @@ O pipeline realiza:
 ---
 
 ## Estrutura do Projeto
-
+```bash
 > /desafio-tecnico/
 >  ├── dados/                # Base original e arquivos processados
 >  │   ├── Series_Temporais_Tesouro_Direto.xlsx
@@ -47,7 +47,7 @@ O pipeline realiza:
 >  │   └── utils.py         # Funções auxiliares
 >  ├── requirements.txt
 >  └── README.md
-
+```
 
 
 ##  Execução Local
