@@ -119,6 +119,9 @@ Abra no navegador → http://127.0.0.1:8000/docs
 
 - O ambiente virtual (`.venv`) foi propositalmente **ignorado** do GitHub para manter o repositório leve.
 - As dependências estão listadas em `requirements.txt`.
+> ⚠️ Atenção:
+> O arquivo original "Séries Temporais - Tesouro Direto.xlsx" foi ajustado apenas no cabeçalho (remoção de 6 linhas iniciais vazias e padronização dos nomes das colunas).  
+> Essa modificação garante a leitura correta pelo pipeline `pandas.read_excel()`.
 
 ------
 
