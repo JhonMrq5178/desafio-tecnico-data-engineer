@@ -126,6 +126,7 @@ Abra no navegador → http://127.0.0.1:8000/docs
 
 📧 **Jhonatha Silva Marques**
 Engenheiro de Dados & IA | Especialista em BI & Analytics
+
  🔗 [LinkedIn – linkedin.com/in/jhonathamarques](https://linkedin.com/in/jhonathamarques)
  💻 [GitHub – JhonMrq5178](https://github.com/JhonMrq5178)
  📍 São Paulo – SP · Brasil
