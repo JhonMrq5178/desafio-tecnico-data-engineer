@@ -33,9 +33,9 @@ O pipeline realiza:
 ## Estrutura do Projeto
 ```bash
 > /desafio-tecnico/
->  ├── dados/                # Base original e arquivos processados
+>  ├── dados/                # Base original com ajustes e arquivos processados 
 >  │   ├── Series_Temporais_Tesouro_Direto.xlsx
->  │   ├── data.db
+>  │   ├── data.db           # Base original com ajustes no cabeçalho para a leitura correta pelo pipeline `pandas.read_excel()`.
 >  │   └── titulos_tesouro.parquet
 >  ├── notebooks/
 >  │   └── exploracao_inicial.ipynb
